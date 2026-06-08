@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.5.2",
-  "update_level": "normal",
-  "changelog": "- Correcci\u00f3n del indicador de versi\u00f3n en la barra lateral para que cargue instant\u00e1neamente",
+  "latest_version": "0.7.0",
+  "update_level": "major",
+  "changelog": "- \u00a1Arquitectura Modular de Perfiles de Hardware!\\n- Soporte universal y auto-detectable para EPON y GPON.\\n- Preparado para ZTE y Huawei.\\n- Rendimiento mejorado y c\u00f3digo central m\u00e1s limpio.",
   "download_url": "https://s4mlux.github.io/omni-ota-server/omni_update.zip"
 }
