@@ -1,5 +1,6 @@
 {
-  "latest_version": "0.4.0",
-  "changelog": "Nuevo UI de OTA con Modal Flotante y Notificaciones Globales de instalaci\u00f3n",
+  "latest_version": "0.5.0",
+  "update_level": "major",
+  "changelog": "- Visor de Logs en tiempo real en la pesta\u00f1a ROOT\n- Niveles de actualizaci\u00f3n (Normal, Major, Critical) integrados en la matriz de notificaciones\n- Actualizador OTA a prueba de fallos",
   "download_url": "https://s4mlux.github.io/omni-ota-server/omni_update.zip"
 }
