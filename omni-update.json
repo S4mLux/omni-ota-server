@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.5.1",
+  "latest_version": "0.5.2",
   "update_level": "normal",
-  "changelog": "- Filtro de Actualizaciones en el Centro de Notificaciones\n- Visualizaci\u00f3n de la versi\u00f3n actual debajo del logo de OMNI Orchestrator en la barra lateral",
+  "changelog": "- Correcci\u00f3n del indicador de versi\u00f3n en la barra lateral para que cargue instant\u00e1neamente",
   "download_url": "https://s4mlux.github.io/omni-ota-server/omni_update.zip"
 }
