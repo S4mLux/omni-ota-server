@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.7.1",
+  "latest_version": "0.7.2",
   "update_level": "major",
-  "changelog": "- \u00a1Hotfix Cr\u00edtico EPON C-Data!\\n- Decodificaci\u00f3n correcta de direcciones MAC para ONUs EPON.\\n- Mapeo correcto de OIDs de Estado y Modelo para C-Data EPON.\\n- Rendimiento estable de descubrimientos paralelos.",
+  "changelog": "- \u00a1Hotfix Cr\u00edtico EPON C-Data (Parte 2)!\\n- Previene cuelgues al sincronizar ONUs con MACs duplicadas (fantasmas).\\n- Reparaci\u00f3n de errores de sintaxis en el servicio OLT.",
   "download_url": "https://s4mlux.github.io/omni-ota-server/omni_update.zip"
 }
