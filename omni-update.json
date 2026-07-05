@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.7.3",
-  "update_level": "major",
-  "changelog": "- Hotfix Optico EPON C-Data\\n- Habilita la lectura de senal en OLTs que devuelven el valor con el texto dBm incrustado.\\n- Repara la vista de senal en el dashboard general.",
+  "latest_version": "0.7.5",
+  "update_level": "normal",
+  "changelog": "- Corrección global de modales para anclarse a la pantalla completa.\n- Reubicación de la Campana de Notificaciones al Menú Lateral (Sidebar).\n- Corrección en MikroTikDriver: Ahora se preserva la lista (address-list) original en DHCP al mover clientes activos (ej. ACTIVE a CONVENIO).",
   "download_url": "https://s4mlux.github.io/omni-ota-server/omni_update.zip"
 }
